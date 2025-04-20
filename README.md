@@ -70,12 +70,62 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 <br>
 
 ### DATASET INFO:
-![image](https://github.com/user-attachments/assets/04a78c06-56fe-4fa2-b8fd-078c31a83b38)
-### NULL DATASET:
 ![image](https://github.com/user-attachments/assets/abd11de8-fd64-4574-8952-54c9f2bf6086)
-### VALUES COUNT IN LEFT COLUMN:
+### NULL DATASET:
 ![image](https://github.com/user-attachments/assets/acdecc6f-c072-4362-b9b8-3c2341b469e6)
+### VALUES COUNT IN LEFT COLUMN:
+![image](https://github.com/user-attachments/assets/a3e26432-14bc-41ac-a1a9-258eae21ddc2)
 ### DATASET TRANSFORMED HEAD:
+![image](https://github.com/user-attachments/assets/04c379f0-911b-4c74-bbc0-6e72cb56fcd4)
+### X.HEAD:
+![image](https://github.com/user-attachments/assets/a24781fe-f112-41df-a591-e059b550423d)
+### ACCURACY:
+![image](https://github.com/user-attachments/assets/2814107f-063a-467e-b865-e274cceb1fe5)
+### DATA PREDICTION:
+![image](https://github.com/user-attachments/assets/d4d1abc5-36c4-4a0f-af18-4f7bbf8e35ad)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 

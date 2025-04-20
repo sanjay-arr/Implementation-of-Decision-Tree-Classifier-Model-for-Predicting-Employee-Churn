@@ -59,6 +59,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+### DATA HEAD:
+![image](https://github.com/user-attachments/assets/f78abd2a-1e84-4dd2-a8f7-562c18d8410f)
+
 <br>
 <br>
 <br>
